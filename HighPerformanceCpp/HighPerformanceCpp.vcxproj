@@ -126,6 +126,9 @@
     <ClInclude Include="AutoFlavors.hpp" />
     <ClInclude Include="Lambda.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
