@@ -124,7 +124,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="AutoFlavors.hpp" />
+    <ClInclude Include="ConstPropagationForPointers.hpp" />
     <ClInclude Include="Lambda.hpp" />
+    <ClInclude Include="MoveSemanticsExplained.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />

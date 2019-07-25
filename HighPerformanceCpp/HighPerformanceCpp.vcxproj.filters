@@ -21,6 +21,12 @@
     <ClInclude Include="Lambda.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ConstPropagationForPointers.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveSemanticsExplained.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
