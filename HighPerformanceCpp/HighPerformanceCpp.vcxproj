@@ -128,6 +128,7 @@
     <ClInclude Include="Lambda.hpp" />
     <ClInclude Include="MemoryManagement.hpp" />
     <ClInclude Include="MoveSemanticsExplained.hpp" />
+    <ClInclude Include="TemplateMetaprogramming.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
